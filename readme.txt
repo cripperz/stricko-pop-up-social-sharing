@@ -8,7 +8,7 @@ Author: Stricko
 Donate link: http://www.stricko.com/donate/
 Requires at least: Minimum requires WordPress version
 Tested up to: Version 3.5.2
-Stable tag: Plugin’s stable version
+Stable tag: 1.0
 Version: Version 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
